@@ -7,3 +7,7 @@ Developed an 8-bit 6×6 matrix multiplier engine with a custom memory control sy
 ![alt text](images/SRAM_bank.jpg)
 
 ![alt text](images/FSM.jpg)
+
+![alt text](images/PCB.jpg)
+
+![alt text](images/CHIP.jpg)
